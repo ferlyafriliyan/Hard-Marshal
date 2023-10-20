@@ -37,7 +37,7 @@ __marshal__ = b'c\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x0
 try:
 	import os, sys
 except KeyboardInterrupt:
-	exit()
+	clear();exit()
 
 ```
 ## - Run a Termux :
